@@ -1,5 +1,5 @@
 <center>
-    <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2020/11/2020_-Debezium_IBM_Db2_CDC_Featured_Article.png?itok=6J8rM4tH" width="400" alt="cognitiveclass.ai logo"  />
+    <img src="https://www.dataquest.io/wp-content/uploads/2021/11/why-sql-consumes-so-much-memory-header.webp" width="1000" alt="cognitiveclass.ai logo" />
 </center>
 
 <h1 align=center><font size = 5>SQL PROJECT</font></h1>
