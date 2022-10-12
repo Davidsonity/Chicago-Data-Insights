@@ -6,7 +6,7 @@
 
 # Introduction
 
-This project was made to show recruiters my competency in using SQL. The following are the highlights of this project
+This project was made to show recruiters my competency with using SQL. The following are the highlights of this project
 1.  Understand three Chicago datasets
 2.  Load the three datasets into three tables in a Db2 database
 3.  Execute SQL queries to answer some questions
