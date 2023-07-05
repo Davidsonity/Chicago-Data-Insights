@@ -55,6 +55,3 @@ Feel free to explore the datasets and customize the analysis according to your n
 By analyzing the Socioeconomic Indicators, Chicago Public Schools, and Chicago Crime Data, this project aims to provide insights into various aspects of Chicago's communities, education system, and crime rates. The use of SQL queries on an IBM DB2 database allows for efficient analysis and data-driven decision-making.
 
 Please refer to the provided datasets, set up the DB2 database accordingly, and execute the SQL queries in the `notebook.ipynb` file to explore and analyze the data.
-
-**Note:** It is recommended to read the README.md file before proceeding to the notebook for a better understanding of the project and its setup.
-<img src = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DB0201EN-SkillsNetwork/labs/FinalModule_Coursera_V5/images/LoadingData.png"  width="600" alt="cognitiveclass.ai logo">
