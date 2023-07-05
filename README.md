@@ -5,7 +5,7 @@
     <img src="https://www.dataquest.io/wp-content/uploads/2021/11/why-sql-consumes-so-much-memory-header.webp" width="1000" alt="cognitiveclass.ai logo" />
 </center>
 
-> View Notebook @ https://github.com/Davidsonity/SQL-FOR-RECRUITERS/blob/main/notebook.ipynb
+> View Notebook @ https://github.com/Davidsonity/Chicago-Data-Insights/blob/main/notebook.ipynb
 
 ## Project Overview
 
