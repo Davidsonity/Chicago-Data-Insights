@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-This project involves analyzing three datasets related to Chicago: Socioeconomic Indicators in Chicago, Chicago Public Schools, and Chicago Crime Data. The goal is to gain insights and make data-driven decisions based on the analysis of these datasets.
+This project involves analyzing three datasets related to Chicago: Socioeconomic Indicators in Chicago, Chicago Public Schools, and Chicago Crime Data. The project begins by establishing a connection to the database using the `ibm_db_sa` module. Once the connection is established, SQL queries are executed to solve a series of problems.
 
 ## Repository Contents
 
@@ -39,16 +39,38 @@ To replicate the analysis and run SQL queries on the datasets, follow these step
 
 ## Analysis
 
-The `notebook.ipynb` file contains the code and SQL queries necessary to perform the analysis on the datasets. It provides a step-by-step guide for loading the datasets into the DB2 database and conducting various data analysis tasks.
+The `notebook.ipynb` file contains the code and SQL queries necessary to perform the analysis on the datasets. It provides a step-by-step guide for loading the datasets into the DB2 database and conducting various data analysis tasks. Here's a brief summary of each problem and its solution:
 
-Here are a few examples of analysis tasks that can be performed:
+- Problem 1: Finding the total number of crimes recorded in the CRIME table.
+- Problem 2: Listing community areas with per capita income less than 11000.
+- Problem 3: Listing all case numbers for crimes involving minors.
+- Problem 4: Listing all kidnapping crimes involving a child.
+- Problem 5: Determining the kinds of crimes recorded at schools.
+- Problem 6: Listing the average safety score for each type of school.
+- Problem 7: Listing the 5 community areas with the highest percentage of households below the poverty line.
+- Problem 8: Identifying the most crime-prone community area.
+- Problem 9: Using a sub-query to find the name of the community area with the highest hardship index.
+- Problem 10: Using a sub-query to determine the community area name with the most number of crimes.
 
-1. Identifying the Chicago community areas with the highest and lowest socioeconomic indicators.
-2. Evaluating the relationship between socioeconomic indicators and school performance in Chicago.
-3. Analyzing crime trends over time and identifying areas with high crime rates.
-4. Investigating any correlations between socioeconomic factors and crime rates in different community areas.
 
-Feel free to explore the datasets and customize the analysis according to your needs and interests.
+## Dependencies
+The following dependencies are required to run the project:
+
+- Python 3
+- Jupyter Notebook
+- ibm_db_sa
+- pandas
+- sqlalchemy
+
+Please refer to the `requirements.txt` file for the complete list of dependencies.
+
+## Getting Started
+To get started with the project, follow these steps:
+
+1. Clone the repository
+2. Install the dependencies
+3. Set up the database connection details in the Jupyter Notebook.
+4. Open `notebook.ipynb` and run the cells to execute the SQL queries and explore the data.
 
 ## Conclusion
 
